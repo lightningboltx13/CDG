@@ -1,0 +1,2 @@
+# CDG
+Collectible Dice Game
